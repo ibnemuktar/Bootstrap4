@@ -1,0 +1,52 @@
+body{
+    background-color:#afafaf;
+    font-family: sans-serif;
+}
+.signup-box{
+    width: 500px;
+    margin-left: 20%;
+    margin-top: 10%;
+    background-color: #ffffff;
+    color: black;
+}
+.signup{
+    margin: 15px;
+    padding: 15px;
+    width: 400px;
+}
+.signup h2{
+    font-size: 26px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.signup a{
+    padding: 5px;
+    color: #0080ff;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 14px;
+}
+.signup input[type='text']{
+    width: 100%;
+    padding: 5px;
+}
+.signup input[type='email']{
+    width: 100%;
+    padding: 5px;
+}
+.signup input[type='password']{
+    width: 100%;
+    padding: 5px;
+}
+.signup input[type='number']{
+    width: 100%;
+    padding: 5px;
+}
+.signup input[type='submit']{
+    width: 100%;
+    padding: 5px;
+    background-color: #0080ff;
+    cursor: pointer;
+}
+.signup hr{
+    border: none;
+}
